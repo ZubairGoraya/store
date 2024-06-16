@@ -1,4 +1,4 @@
 var twLSN = [
-'https://solarecostore.blogspot.com',
+'https://affordablepage.blogspot.com/',
 ];
-var redirectUrl = 'http://bit.ly/toko-whatsapp';
+var redirectUrl = 'https://affordablepage.blogspot.com/';
